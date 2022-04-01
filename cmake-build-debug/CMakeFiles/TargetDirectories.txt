@@ -1,0 +1,3 @@
+/home/roman/CLionProjects/lab02_timp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/roman/CLionProjects/lab02_timp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/roman/CLionProjects/lab02_timp/cmake-build-debug/CMakeFiles/lab02_timp.dir
