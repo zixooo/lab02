@@ -4,7 +4,9 @@
 using namespace std;
 
 int main(){
-    cout << "Hello World!" << endl;
+    string name;
+    cin >> name;
+    cout << "Hello World! from @" << name  << endl;
     return 0;
-    
+
 }
